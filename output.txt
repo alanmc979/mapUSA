@@ -1,0 +1,1042 @@
+cityname                      latitude       longitude      population     
+davis-m afb,az                32.17          -110.88        
+salt lake ct,ut               40.78          -111.97        
+glenview nas,il               42.08          -87.82         
+jackson,mi                    42.27          -84.47         
+alturas,ca                    41.48          -120.53        
+the dalles,or                 45.62          -121.15        
+lakehurst,nj                  40.03          -74.35         
+bedford,ma                    42.47          -71.28         
+sioux city,ia                 42.4           -96.38         
+cozad,ne                      40.87          -100.0         
+chicago/meigs,il              41.87          -87.62         
+salmon,id                     45.17          -114.47        
+topeka,ks                     39.07          -95.62         124331         
+port arthur,tx                30.58          -94.02         
+sault ste m,mi                46.47          -84.37         
+winter park,co                40.0           -105.87        
+bellingham,wa                 48.8           -122.53        
+cairo,il                      37.07          -89.22         
+northrup str,nm               32.9           -106.4         
+jackson,ms                    32.32          -90.08         175021         
+chicago/midway,il             41.78          -87.75         
+russell,ks                    38.87          -98.82         
+beverly,ma                    42.58          -70.92         
+hobbs,nm                      32.68          -103.2         
+duluth,mn                     46.83          -92.18         
+new haven,ct                  41.27          -72.9          123330         
+hutchinson,ks                 38.07          -97.87         
+hastings,ne                   40.6           -98.43         
+wright-pat afb,oh             39.83          -84.05         
+washington/natl,dc            38.85          -77.04         
+atlanta/dklb,ga               33.88          -84.3          
+saint george,ut               37.08          -113.6         
+wink,tx                       31.78          -103.2         
+phillips,md                   39.47          -76.17         
+toledo,wa                     46.48          -122.8         
+fairfield,nj                  40.87          -74.28         
+greenwood,ms                  33.5           -90.08         
+eureka,nv                     39.5           -115.97        
+w palm beach,fl               26.68          -80.12         
+safford awrs,az               32.82          -109.68        
+hondo,tx                      29.35          -99.17         
+dobbins afb,ga                34.53          -84.87         
+presque isle,me               46.68          -68.05         
+golden trian,ms               33.45          -88.58         
+lake view,or                  42.18          -120.35        
+falls city,ne                 40.07          -95.58         
+jackson,ky                    37.6           -83.32         
+lewiston,id                   46.38          -117.02        
+high is,la                    28.22          -93.75         
+limon,co                      39.18          -103.7         
+longview,tx                   32.38          -94.72         
+mcconnell af,ks               37.62          -97.27         
+melbourne,fl                  28.1           -80.63         
+mobridge,sd                   45.53          -100.43        
+augusta,me                    44.32          -69.8          
+nth kingston,ri               41.6           -71.42         
+bicycle lk,ca                 35.28          -116.62        
+lawrence,ma                   42.72          -71.12         
+ft knox,ky                    37.9           -85.97         
+danville,va                   36.57          -79.33         
+mojave,ca                     35.05          -118.15        
+mayport nas,fl                30.4           -81.42         
+lake tahoe,ca                 38.9           -120.0         
+ft lauderdale,fl              26.07          -80.15         
+lexington,ky                  38.05          -85.0          296545         
+texarkana,ar                  33.45          -94.0          
+muskogee,mo                   35.66          -95.36         
+bemidji muni,mn               47.5           -94.93         
+kelly afb,tx                  29.38          -98.58         
+port angeles,wa               48.22          -123.67        
+atlanta/fltn,ga               33.78          -84.52         
+islip,ny                      40.78          -73.1          
+hot springs,ar                34.48          -93.1          
+saint peters,fl               27.92          -82.68         
+thompson fal,mt               47.6           -115.37        
+centreville,al                32.9           -87.25         
+van nuys,ca                   34.22          -118.48        
+marquette,mi                  46.88          -87.95         
+leadville,co                  39.25          -106.3         
+san carlos,ca                 37.52          -122.25        
+brookings,sd                  44.3           -96.8          
+maxwell afb,al                32.38          -86.37         
+mcchord afb,wa                47.15          -122.48        
+yuma prv gd,az                32.85          -114.4         
+baker,or                      44.83          -117.82        
+tucson,az                     32.12          -110.93        543910         
+ypsilanti,mi                  42.23          -83.53         
+oceana nas,va                 36.82          -76.03         
+portland,me                   43.65          -70.32         
+pt piedras,ca                 36.12          -121.47        
+brownsville,tx                25.9           -97.43         176859         
+mason city,ia                 43.15          -93.33         
+bakalar af,in                 39.38          -86.5          
+naples,fl                     26.13          -81.8          
+amarillo,tx                   35.23          -101.7         189392         
+columbus osu,oh               40.08          -83.07         
+altus afb,ok                  34.67          -99.27         
+intercoastal,la               29.73          -92.12         
+mobile aeros,al               30.63          -88.07         
+mcalester,ok                  34.88          -95.78         
+ogdensburg,ny                 44.68          -75.4          
+ocean city,md                 38.55          -75.13         
+hill afb,ut                   41.12          -111.97        
+athens,ga                     33.95          -83.32         114983         
+miami intl,fl                 25.82          -80.28         
+butte,mt                      45.95          -112.5         
+salem,il                      38.63          -88.96         
+eglin afb,fl                  30.48          -86.53         
+delta,ut                      39.33          -112.58        
+latrobe,pa                    40.28          -79.4          
+blue canyon,ca                39.28          -120.7         
+quantico mca,va               38.5           -77.3          
+greensboro,nc                 36.08          -79.95         255124         
+fort carson,co                38.68          -104.77        
+warroad,mn                    48.93          -95.35         
+bradford,il                   41.16          -89.6          
+san angelo,tx                 31.37          -100.5         
+air force a,co                39.52          -105.35        
+fort hunter,ca                36.0           -121.32        
+broadus,mt                    45.67          -105.67        
+south brazos,tx               28.03          -95.87         
+lidgerwood,nd                 46.1           -97.15         
+du page,il                    41.92          -88.25         
+dickenson,nd                  46.78          -102.8         
+florence,sc                   34.18          -79.72         
+alamosa,co                    37.45          -105.87        
+alliance,ne                   42.05          -102.8         
+hanford,wa                    46.57          -119.6         
+imperial bch,ca               32.57          -117.12        
+claiborne r,la                31.22          -92.95         
+muir,pa                       40.43          -76.57         
+topeka/forbe,ks               38.95          -95.67         
+blythe,ca                     33.62          -114.72        
+ann arbor,mi                  42.22          -83.75         112920         
+mount wilson,ca               34.23          -118.07        
+fort lewis,wa                 47.08          -122.58        
+crestview,fl                  30.78          -86.52         
+panama city,fl                30.2           -85.68         
+hot springs,va                37.95          -79.82         
+quincy,il                     39.93          -91.2          
+seattle,wa                    47.45          -122.3         616627         
+mccomb,ms                     31.18          -90.47         
+north is,ca                   32.7           -117.2         
+san miguel,ca                 34.03          -120.4         
+flagstaff,az                  35.13          -111.67        
+san jose/rei,ca               37.33          -121.82        
+monroe,la                     32.52          -92.05         
+altoona,pa                    40.3           -78.32         
+fort bragg,nc                 35.13          -78.93         
+arcata,ca                     40.98          -124.1         
+detroit laks,mn               46.82          -95.88         
+massena,ny                    44.93          -74.85         
+thief river,mn                48.07          -96.18         
+castle afb,ca                 37.38          -120.57        
+nth philadel,pa               40.08          -75.02         
+monterey,ca                   36.58          -121.85        
+fort benning,ga               32.33          -85.0          
+grand rapids,mn               47.22          -93.52         
+huntsville,al                 34.65          -86.77         179652         
+missippi can,la               28.78          -89.05         
+page,ok                       34.68          -94.62         
+beaufort mca,sc               32.48          -80.72         
+oshkosh,wi                    44.0           -88.57         
+cuba awrs,nm                  36.02          -106.95        
+brownwood,tx                  31.79          -98.96         
+medicine ldg,ks               37.3           -98.58         
+caribou mun,me                46.87          -68.02         
+myrtle beach,sc               33.68          -78.93         
+jacksonville,fl               30.23          -81.68         813518         
+blairsville,pa                40.27          -79.09         
+bishop,ca                     37.6           -118.6         
+mcclellan,ca                  38.67          -121.4         
+cross city,fl                 29.62          -83.1          
+raton,nm                      36.74          -104.5         
+moorcroft,wy                  44.35          -104.81        
+college stn,tx                30.58          -96.37         
+astoria,or                    46.15          -123.88        
+dallas/addis,tx               32.97          -96.83         
+fort lauderd,fl               26.13          -80.13         
+bristol,tn                    36.48          -82.4          
+washington/dulles,dc          38.95          -77.46         
+bismarck,nd                   46.77          -100.75        
+las cruces,nm                 32.3           -106.77        
+menominee,mi                  45.12          -87.63         
+norton afb,ca                 34.1           -117.23        
+rochester,ny                  43.12          -77.67         207294         
+houston/hobby,tx              29.65          -95.28         
+new bedford,ma                41.68          -70.97         
+sandburg,ca                   34.75          -118.73        
+cheyenne,wy                   41.15          -104.82        
+burlington,wa                 48.5           -122.33        
+smyrna,tn                     36.0           -86.5          
+johnstown,pa                  40.32          -78.83         
+monett,mo                     37.33          -94.35         
+volens,va                     36.95          -78.98         
+high island,la                28.13          -94.4          
+poughkeepsie,ny               41.63          -73.88         
+lemmon,sd                     45.93          -102.17        
+goodland,ks                   39.37          -101.7         
+dover,de                      39.13          -75.47         
+los alamitos,ca               33.78          -118.05        
+muskegon,mi                   43.17          -86.25         
+columbus,oh                   40.0           -82.88         769332         
+westhampton,ny                40.85          -72.63         
+miramar nas,ca                32.87          -117.15        
+el monte,ca                   34.08          -118.03        121447         
+glens falls,ny                43.35          -73.62         
+fayetteville,ar               36.0           -94.17         
+pueblo,co                     38.28          -104.52        104877         
+sioux falls,sd                43.58          -96.73         158008         
+little rock,ar                34.83          -92.25         191933         
+salina,ks                     38.8           -97.65         
+provo,ut                      40.22          -111.72        119775         
+laramie,wy                    41.32          -105.68        
+clarksville,tn                36.62          -87.42         124565         
+galveston,tx                  29.27          -94.87         
+stockton,ca                   37.9           -121.25        287578         
+truckee-tahoe,ca              39.32          -120.13        
+tooele,ut                     40.17          -112.2         
+daytona bch,fl                29.18          -81.05         
+ontario,or                    44.02          -117.02        
+ft riley,ks                   39.05          -96.77         
+shelton,wa                    47.25          -123.15        
+alma,ga                       31.53          -82.52         
+columbus,ga                   32.52          -84.93         190414         
+cecil,fl                      30.22          -81.88         
+oneonta,ny                    42.87          -75.12         
+mount shasta,ca               41.32          -122.32        
+spokane,wa                    47.67          -117.33        203268         
+yuma mcas,az                  32.65          -114.62        
+dalhart,tx                    36.02          -102.55        
+wichita flls,tx               33.98          -98.5          
+egmont key,fl                 27.6           -82.77         
+columbus,ne                   41.45          -97.35         
+crossville,tn                 35.95          -85.08         
+george afb,ca                 34.58          -117.38        
+fresno,ca                     36.77          -119.72        479918         
+iron mtn,mi                   45.82          -88.12         
+cp girardeau,mo               37.23          -89.58         
+marfa,tx                      30.37          -104.02        
+imperial,ca                   32.83          -115.57        
+intl falls,mn                 48.57          -93.38         
+waycross,ga                   31.25          -82.4          
+midland,tx                    31.95          -102.18        108668         
+temple,tx                     31.15          -97.42         
+houma,la                      29.57          -90.65         
+tacoma,wa                     47.27          -122.58        199638         
+paducah,ky                    37.07          -88.77         
+douglas,wy                    42.75          -105.38        
+marion,il                     37.75          -89.0          
+crescent cty,ca               41.78          -124.23        
+pine bluff,ar                 34.17          -91.93         
+ft campbell,ky                36.67          -87.5          
+pikeville,ky                  37.48          -82.52         
+lawton,ok                     34.57          -98.42         
+willow grove,pa               40.2           -75.15         
+ironwood,mi                   46.53          -90.13         
+los alamos,nm                 35.88          -106.28        
+stampede pas,wa               47.28          -121.33        
+robins afb,ga                 32.63          -83.6          
+albany,ny                     42.75          -73.8          
+philadelphia,pa               39.88          -75.25         1547297        
+fort belvoir,va               38.72          -77.18         
+lamar,co                      38.12          -102.6         
+cameron heli,la               29.78          -93.3          
+las vegas,nv                  36.08          -115.17        567641         
+otis angb,ma                  41.65          -70.52         
+taos,nm                       36.42          -105.57        
+redig,sd                      45.16          -103.32        
+sidney muni,ne                41.1           -102.98        
+kerrville,tx                  29.98          -99.08         
+burlington,ia                 40.78          -91.12         
+farmingdale,ny                40.73          -73.43         
+richards-geb,mo               38.85          -94.55         
+emporia,ks                    38.33          -96.2          
+muscle shoal,al               34.75          -87.62         
+toledo,oh                     41.6           -83.8          316179         
+las vegas,nm                  35.65          -105.15        
+champaign/urbana,il           40.03          -88.28         
+laconia,nh                    43.57          -71.43         
+chicago/o'hare,il             41.98          -87.9          
+shelter cove,ca               40.03          -124.07        
+rutland,vt                    43.53          -73.95         
+rochester,mn                  43.92          -92.5          103486         
+patrick afb,fl                28.23          -80.6          
+mosinee,wi                    44.78          -89.67         
+albany,ga                     31.53          -84.18         
+ft myers,fl                   26.65          -81.87         
+state colleg,pa               40.85          -77.83         
+malmstrom,mt                  47.5           -111.18        
+steamboat sp,co               40.48          -106.82        
+beaver falls,pa               40.75          -80.33         
+cascade,or                    45.68          -121.88        
+carswell afb,tx               32.78          -97.43         
+waterloo mun,ia               42.55          -92.4          
+ottumwa,ia                    41.1           -92.45         
+kirksville,mo                 40.1           -92.55         
+worland,wy                    43.97          -107.97        
+ellington af,tx               29.62          -95.17         
+escanaba,mi                   45.73          -87.08         
+el centro,ca                  32.82          -115.68        
+quonset pt nas,ri             41.36          -71.25         
+lewiston,mt                   47.05          -109.45        
+troutdale,or                  45.55          -122.4         
+wallops sta,va                37.85          -75.48         
+dayton,oh                     39.9           -84.2          153843         
+fort devens,ma                42.57          -71.6          
+ellsworth af,sd               44.15          -103.1         
+minot afb,nd                  48.42          -101.35        
+jackson,wy                    43.6           -110.73        
+douglas,az                    31.45          -109.6         
+ord/sharp,ne                  41.62          -98.95         
+fayetteville,nc               35.0           -78.88         198071         
+westover,ma                   42.2           -72.53         
+worthington,mn                43.65          -95.58         
+berlin,nh                     44.58          -71.18         
+aberdeen,sd                   45.45          -98.43         
+akron,co                      40.17          -103.22        
+grand isle,la                 29.18          -90.07         
+north omaha,ne                41.37          -96.02         
+liberal,ks                    37.05          -100.97        
+brunswick,ga                  31.15          -81.38         
+dallas/fw,tx                  32.9           -97.03         
+holloman afb,nm               32.85          -106.1         
+jordan,mt                     47.33          -106.93        
+helena,mt                     46.6           -112.0         
+sarasota,fl                   27.4           -82.55         
+mcentire,sc                   33.92          -80.8          
+west plains,mo                36.88          -91.9          
+eugene is.,la                 28.47          -91.78         
+rock springs,wy               41.6           -109.07        
+norfolk,ne                    41.98          -97.43         
+youngstown,oh                 41.27          -80.67         
+cedar rapids,ia               41.88          -91.7          127764         
+bluefield,wv                  37.3           -81.22         
+detroit,mi                    42.23          -83.33         910921         
+lk palourde,la                29.7           -91.1          
+plainview,tx                  34.17          -101.71        
+moab,ut                       38.77          -109.75        
+copper harb,mi                47.47          -87.85         
+rapid city,sd                 44.05          -103.07        
+auburn,al                     32.67          -85.44         
+estherville,ia                43.4           -94.75         
+vichy/rolla,mo                38.13          -91.77         
+galesburg,il                  40.93          -90.43         
+charlotte,nc                  35.22          -80.93         709441         
+spickard,mo                   40.25          -93.72         
+harlowton,mt                  46.43          -109.83        
+gillette,wy                   44.35          -105.53        
+idaho falls,id                43.52          -112.07        
+farmington,nm                 36.75          -108.23        
+edwards afb,ca                34.9           -117.88        
+memphis intl,tn               35.05          -90.0          
+superior val,ca               35.33          -117.1         
+langley afb,va                37.08          -76.37         
+elizabeth,nc                  36.27          -76.18         
+bakersfield,ca                35.43          -119.05        324463         
+ely/yelland,nv                39.28          -114.85        
+missoula,mt                   46.92          -114.08        
+billings,mt                   45.8           -108.53        105845         
+lafayette,la                  30.2           -92.0          114915         
+wausau,wi                     44.92          -89.62         
+dallas/redbr,tx               32.68          -96.87         
+canton,oh                     40.92          -81.43         
+enid,ok                       36.38          -97.8          
+hawthorne,ca                  33.92          -118.33        
+gainesville,fl                29.68          -82.27         116616         
+fairmont,mn                   43.65          -94.42         
+loring afb,me                 46.95          -67.88         
+brookings,or                  42.08          -124.47        
+johnson cnty,ks               38.82          -94.88         
+la grange,ga                  33.01          -85.07         
+victoria,tx                   28.85          -96.92         
+volk fld,wi                   43.93          -90.27         
+griffiss afb,ny               43.23          -75.4          
+moody afb,ga                  30.97          -83.2          
+pope afb,nc                   35.17          -79.02         
+elkhart,in                    41.72          -86.0          
+tonopah,nv                    38.07          -117.08        
+bremerton,wa                  47.48          -122.77        
+barnegat ls,nj                40.28          -74.28         
+harbor beach,mi               43.83          -82.53         
+appleton,wi                   44.25          -88.52         
+staunton,va                   38.27          -78.85         
+jonesboro,ar                  35.83          -90.65         
+offutt afb,ne                 41.12          -95.92         
+great falls,mt                47.48          -111.37        
+beatrice,ne                   40.32          -96.75         
+hawthorne,nv                  38.55          -118.63        
+boise,id                      43.57          -116.22        205707         
+selfridge,mi                  42.62          -82.83         
+gunnison,co                   38.55          -106.92        
+dare co gr,nc                 36.13          -76.5          
+tyler/pounds,tx               32.37          -95.4          
+reno,nv                       39.5           -119.78        219636         
+corpus chrst,tx               27.7           -97.28         
+trenton,nj                    40.28          -74.82         
+aurora,or                     45.25          -122.75        
+wheeling,wv                   40.18          -80.65         
+wildhorse,nv                  41.33          -116.25        
+williston,nd                  48.18          -103.63        
+pocatello,id                  42.92          -112.6         
+battle mtn,nv                 40.62          -116.87        
+rockland,me                   44.07          -69.12         
+ruskin,fl                     27.97          -82.6          
+cape blanco,or                43.38          -124.95        
+dodge city,ks                 37.77          -99.97         
+camden,ar                     33.52          -92.4          
+lake charles,la               30.12          -93.22         
+boothville,la                 29.55          -89.67         
+redwood falls,mn              44.55          -95.08         
+big spring,tx                 32.3           -101.45        
+columbia,mo                   38.82          -92.22         102324         
+moline/quad,il                41.45          -90.52         
+site r,pa                     39.73          -77.43         
+burwell,ne                    41.78          -99.15         
+la crosse,wi                  43.87          -91.25         
+binghamton,ny                 42.22          -75.98         
+mitchell,sd                   43.77          -98.03         
+elko,nv                       40.83          -115.78        
+north bend,or                 43.42          -124.25        
+bradford,pa                   41.8           -78.63         
+greeley-wld,co                40.43          -104.63        
+el dorado,ar                  33.22          -92.8          
+carlsbad,ca                   33.13          -117.28        
+craig-moffat,co               40.5           -107.53        
+san mateo,ca                  33.38          -117.58        
+guadalupe ps,tx               31.83          -104.8         
+keesler afb,ms                30.42          -88.92         
+roswell,nm                    33.3           -104.53        
+reese afb,tx                  33.6           -102.05        
+rifle,co                      39.53          -107.8         
+chanute,ks                    37.67          -95.48         
+chatham,ma                    41.67          -69.97         
+thermal,ca                    33.63          -116.17        
+hayward,ca                    37.65          -122.12        144291         
+ft stewart,ga                 31.88          -81.57         
+teterboro,nj                  40.85          -74.05         
+vandalia,il                   38.99          -89.17         
+fort dodge,ia                 42.55          -94.18         
+hagerstown,md                 39.7           -77.72         
+kalamazoo,mi                  42.23          -85.55         
+bangor,me                     44.8           -68.82         
+mcguire afb,nj                40.02          -74.6          
+springdale,ar                 36.18          -94.13         
+alexandria,la                 31.38          -92.3          
+lebanon,nh                    43.63          -72.3          
+saginaw,mi                    43.53          -84.08         
+ponca city,ok                 36.73          -97.1          
+riverton,wy                   43.05          -108.45        
+charleston,sc                 32.9           -80.03         115638         
+twin falls,id                 42.48          -114.48        
+jackson,tn                    35.6           -88.92         
+natchez,ms                    31.62          -91.25         
+fort huachuc,az               31.6           -110.35        
+carbondale,il                 37.78          -89.25         
+des moines,ia                 41.53          -93.65         200538         
+mccall,id                     44.88          -116.1         
+napa,ca                       38.22          -122.28        
+mackall aaf,nc                35.03          -79.5          
+bistate park,il               38.57          -90.15         
+ft leavnwrth,ks               39.37          -94.92         
+keene,nh                      42.9           -72.27         
+manhatten,ks                  39.15          -96.67         
+macon/lewis,ga                32.7           -83.65         
+garden city,ks                37.93          -100.72        
+lone rock,wi                  43.2           -90.18         
+pt arena,ca                   39.58          -124.22        
+montgomery,al                 32.3           -86.4          202124         
+bar harbor,me                 44.45          -68.37         
+d.w. hooks,tx                 30.07          -95.55         
+colo sprgs,co                 38.82          -104.72        
+moriarity,nm                  34.98          -106.05        
+cedar city,ut                 37.7           -113.1         
+marthas vine,ma               41.4           -70.62         
+malta,id                      42.3           -113.37        
+ithaca,ny                     42.48          -76.47         
+minot intl,nd                 48.27          -101.28        
+lufkin,tx                     31.23          -94.75         
+macdill afb,fl                27.85          -82.52         
+childress,tx                  34.43          -100.28        
+long beach,ca                 33.82          -118.15        462604         
+england afb,la                31.33          -92.55         
+clarksburg,wv                 39.28          -80.23         
+clayton arpt,nm               36.45          -103.15        
+redmond,or                    44.27          -121.15        
+chino,ca                      33.97          -117.63        
+avon park g,fl                28.08          -81.55         
+shreveport,la                 32.47          -93.82         199244         
+rickenbacker,oh               39.82          -82.93         
+janesville,wi                 42.62          -89.03         
+new bern,nc                   35.08          -77.05         
+meacham,or                    45.5           -118.4         
+china lake,ca                 35.68          -117.68        
+schenectady,ny                42.85          -73.93         
+marysville,ca                 39.1           -121.57        
+zanesville,oh                 39.95          -81.9          
+socorro,nm                    34.07          -106.9         
+w lafayette,in                40.42          -86.93         
+huntington,wv                 38.37          -82.55         
+mullen,ne                     42.05          -101.05        
+shaw afb,sc                   33.97          -80.47         
+findlay,oh                    41.02          -83.67         
+concordia,ks                  39.55          -97.65         
+wilmington,nc                 34.27          -77.92         101350         
+pontiac,mi                    42.67          -83.42         
+erie,pa                       42.08          -80.18         103571         
+burns arpt,or                 43.6           -118.95        
+ardmore,ok                    34.3           -97.02         
+page,az                       36.93          -111.45        
+renton,wa                     47.5           -122.22        
+fort wayne,in                 41.0           -85.2          255890         
+fort eustis,va                37.13          -76.62         
+lander,wy                     42.82          -108.73        
+trinidad,co                   37.25          -104.33        
+kingsville,tx                 27.5           -97.82         
+eagle,co                      39.65          -106.92        
+chadron,ne                    42.83          -103.08        
+santa barbara,ca              34.43          -119.83        
+mountn home,id                43.05          -115.87        
+spartanburg,sc                34.92          -81.96         
+anniston,al                   33.58          -85.85         
+fort rucker,al                31.28          -85.72         
+olympia,wa                    46.97          -122.9         
+luke,az                       33.53          -112.38        
+hot springs,nc                35.9           -82.82         
+march afb,ca                  33.88          -117.27        
+dyersburg,tn                  36.02          -89.4          
+new london,ct                 41.3           -72.08         
+norfolk nas,va                36.93          -76.28         
+montague,ca                   41.73          -122.53        
+oxford,ms                     34.39          -89.54         
+fort meade,md                 39.08          -76.77         
+san jose,ca                   37.37          -121.92        964695         
+chase nas,tx                  28.37          -97.67         
+moffet nas,ca                 37.42          -122.05        
+pellston,mi                   45.57          -84.8          
+valentine,ne                  42.87          -100.55        
+watertown,sd                  44.92          -97.15         
+ft collins,co                 40.58          -105.08        
+newburgh,ny                   41.5           -74.1          
+dallas/love,tx                32.85          -96.85         
+blytheville,ar                35.97          -89.95         
+salisbury,md                  38.33          -75.5          
+mansfield,oh                  40.82          -82.52         
+troy,al                       31.87          -86.02         
+morgantown,wv                 39.65          -79.92         
+gallup/clark,nm               35.52          -108.78        
+ind sprng rn,nv               36.57          -115.67        
+fort ord,ca                   36.68          -121.77        
+kingman,az                    35.27          -113.95        
+yucca flat,nv                 37.58          -116.08        
+parkersburg,wv                39.35          -81.43         
+franklin,pa                   41.38          -79.87         
+saranac lk,ny                 44.38          -74.2          
+nashville,tn                  36.12          -86.68         605473         
+sheridan,wy                   44.77          -106.97        
+winslow,az                    35.02          -110.73        
+laurel,ms                     31.67          -89.17         
+vance afb,ok                  36.33          -97.92         
+key west nas,fl               24.57          -81.68         
+glendive,mt                   47.13          -104.8         
+grand canyon,az               35.95          -112.15        
+owensboro,ky                  37.75          -87.17         
+lancaster,pa                  40.13          -76.3          
+battle creek,mi               42.3           -85.23         
+campo,ca                      32.62          -116.47        
+albuquerque,nm                35.05          -106.6         529219         
+randolph afb,tx               29.53          -98.28         
+wurtsmith,mi                  44.45          -83.4          
+kansas city,mo                39.12          -94.6          482299         
+salinas,ca                    36.67          -121.6         144278         
+milford,ut                    38.72          -113.03        
+hancock,mi                    47.17          -88.5          
+hays,ks                       38.85          -99.27         
+norwood,ma                    42.18          -71.18         
+scottsdale,az                 33.62          -111.92        237844         
+devil's lake,nd               48.1           -98.87         
+mullan,id                     47.47          -115.8         
+martinsburg,wv                39.4           -77.98         
+wendover,ut                   41.22          -114.05        
+tinker afb,ok                 35.42          -97.38         
+nasa shuttle,fl               28.62          -80.68         
+price/carbon,ut               39.62          -110.75        
+glasgow,mt                    48.22          -106.62        
+fairchild,wa                  47.62          -117.65        
+san luis obi,ca               35.23          -120.65        
+pittsburgh,pa                 40.5           -80.22         311647         
+roseburg,or                   43.23          -123.37        
+worcester,ma                  42.27          -71.87         182882         
+oakland,ca                    37.73          -122.22        409189         
+lansing,mi                    42.77          -84.6          113802         
+manistee,mi                   44.27          -86.25         
+tyndall afb,fl                30.07          -85.58         
+alameda nas,ca                37.78          -122.32        
+lynchburg,va                  37.33          -79.2          
+new york,ny                   40.77          -73.98         8391881        
+eureka,ca                     41.33          -124.28        
+madison,wi                    43.13          -89.33         235419         
+elmira,ny                     42.17          -76.9          
+new river,nc                  34.7           -77.43         
+scott afb,il                  38.55          -89.85         
+fraser,co                     39.57          -105.5         
+windsor loc,ct                41.93          -72.68         
+huron,sd                      44.38          -98.22         
+mcallen,tx                    26.18          -98.23         132225         
+lewisburg,wv                  37.87          -80.4          
+columbia,sc                   33.95          -81.12         129333         
+hattiesburg,ms                31.47          -89.33         
+titusville,fl                 28.52          -80.8          
+corvallis,or                  44.5           -123.28        
+gray afb,tx                   31.07          -97.83         
+dothan,al                     31.32          -85.45         
+fort drum,ny                  44.05          -75.73         
+buckley,co                    39.72          -104.75        
+big bear apt,ca               34.27          -116.68        
+norfolk rgnl,va               36.9           -76.2          
+sterling,il                   41.74          -89.67         
+niagara fall,ny               43.1           -78.95         
+evansville,in                 38.05          -87.53         116584         
+philip,sd                     44.05          -101.6         
+fort polk,la                  31.05          -93.2          
+del rio,tx                    29.37          -100.92        
+dillon,mt                     45.25          -112.55        
+vero beach,fl                 27.65          -80.42         
+south bend,in                 41.7           -86.32         104215         
+seattle/boeing,wa             47.53          -122.3         
+grangeville,id                45.92          -116.13        
+san clemente,ca               33.02          -118.58        
+baltimore,md                  39.33          -76.42         637418         
+wolfeboro,nh                  44.0           -71.38         
+truth or con,nm               33.23          -107.27        
+new orleans,la                30.03          -90.03         354850         
+grand forks,nd                47.97          -97.4          
+lincoln muni,ne               40.85          -96.75         
+ely,mn                        47.9           -91.82         
+everet/paine,wa               47.92          -122.28        
+cody,wy                       44.52          -109.02        
+rumford,me                    44.88          -70.88         
+lancaster,ca                  34.73          -118.22        145776         
+brunswick,me                  43.88          -69.93         
+dallas nas,tx                 32.73          -96.97         
+marianna,fl                   30.84          -85.18         
+gadsden,al                    33.97          -86.09         
+elkins,wv                     38.88          -79.85         
+ephrata,wa                    47.32          -119.52        
+walnut ridge,ar               36.13          -90.93         
+san nic isl,ca                33.25          -119.45        
+silver city,nm                32.63          -108.17        
+elk city,id                   45.82          -115.43        
+stlouis/spirit,mo             38.65          -90.63         
+santa monica,ca               34.02          -118.45        
+oxnard,ca                     34.2           -119.2         187535         
+chicago,il                    41.9           -87.65         2851268        
+white sulph,wv                37.46          -80.2          
+patuxent,md                   38.28          -76.4          
+ambrose,ny                    40.75          -74.37         
+pease afb,nh                  43.08          -70.82         
+custer,sd                     43.77          -103.6         
+marshall arpt,mn              44.45          -95.82         
+hurlburt fld,fl               30.43          -86.68         
+prescott,az                   34.65          -112.43        
+tallahassee,fl                30.38          -84.37         172574         
+st louis,mo                   38.75          -90.37         356587         
+meridian nas,ms               32.55          -88.57         
+cleveland,oh                  41.42          -81.87         431369         
+southern pin,nc               35.24          -79.39         
+watertown,ny                  44.0           -76.02         
+palacios,tx                   28.72          -96.25         
+andrews afb,md                38.82          -76.87         
+grants,nm                     35.17          -107.9         
+s weymouth,ma                 42.15          -70.93         
+asheville,nc                  35.43          -82.55         
+spencer,ia                    43.17          -95.15         
+cherry point,nc               34.9           -76.88         
+sanford,fl                    28.78          -81.25         
+deer valley,az                33.68          -112.08        
+nellis afb,nv                 36.23          -115.03        
+poplar bluff,mo               36.77          -90.47         
+springfield,il                39.85          -89.67         118033         
+roanoke muni,va               37.32          -79.97         
+chattanooga,tn                35.03          -85.2          171350         
+millville,nj                  39.37          -75.07         
+challis,id                    44.52          -114.22        
+redding,ca                    40.5           -122.3         
+fergus falls,mn               46.3           -96.07         
+livermore,ca                  37.7           -121.82        
+abilene,tx                    32.42          -99.68         117180         
+ontario intl,ca               34.05          -117.62        
+newport,vt                    45.55          -72.33         
+gulfport,ms                   30.4           -89.07         
+monticello,ny                 41.7           -74.8          
+new iberia,la                 30.03          -91.88         
+dekalb,il                     41.93          -88.72         
+flint/bishop,mi               42.97          -83.75         
+yankton,sd                    42.92          -97.38         
+neenah,wi                     44.22          -88.53         
+wilmington,de                 39.67          -75.6          
+mt washingtn,nh               44.27          -71.3          
+salem,or                      44.92          -123.0         155469         
+medford,or                    42.37          -122.87        
+rockford,il                   42.2           -89.1          157280         
+whidbey is,wa                 48.35          -122.65        
+st joseph,mo                  40.28          -95.53         
+susanville,ca                 40.63          -120.95        
+seymour-john,nc               35.33          -77.97         
+visalia,ca                    36.32          -119.4         122111         
+sawyer afb,mi                 46.35          -87.4          
+s marsh isl,la                28.3           -91.98         
+travis afb,ca                 38.27          -121.93        
+newport,or                    44.63          -124.05        
+minneapolis,mn                44.88          -93.22         385378         
+corona,nm                     34.1           -105.68        
+mankato,mn                    44.22          -93.92         
+point mugu,ca                 34.12          -119.12        
+dansville,ny                  42.97          -78.2          
+killeen,tx                    31.08          -97.68         119512         
+laughlin afb,tx               29.37          -100.78        
+grand jct,co                  39.12          -108.53        
+yuma,az                       33.1           -115.0         
+eugene,or                     44.12          -123.22        153272         
+malad city,id                 42.17          -112.32        
+caliente,nv                   37.62          -114.52        
+ainsworth,ne                  42.58          -99.98         
+houston,tx                    29.97          -95.35         2257926        
+olathe,ks                     38.85          -94.9          121962         
+fullerton,ca                  33.87          -117.97        132620         
+tampa intl,fl                 27.97          -82.53         
+hill city,ks                  39.38          -99.83         
+kearney,ne                    40.73          -99.0          
+san diego,ca                  32.82          -116.97        1306300        
+knoxville,tn                  35.82          -83.98         185100         
+mount vernon,il               38.32          -88.86         
+chamberlain,sd                43.75          -99.32         
+boston,ma                     42.37          -71.03         645169         
+montrose,co                   38.5           -107.88        
+tofte,mn                      47.58          -90.83         
+bowling gren,ky               36.97          -86.43         
+tupelo,ms                     34.27          -88.77         
+pittsfield,ma                 42.26          -73.18         
+atlantic cty,nj               39.45          -74.57         
+aurora,il                     41.77          -88.32         172950         
+los angeles,ca                33.93          -118.4         3831868        
+wenatchee,wa                  47.4           -120.2         
+siskiyou,ca                   41.78          -122.47        
+palm springs,ca               33.83          -116.5         
+reading,pa                    40.38          -75.97         
+klamath fall,or               42.15          -121.73        
+hickory,nc                    35.75          -81.38         
+junction,tx                   30.5           -99.77         
+greenville,ms                 33.48          -90.98         
+fallon nas,nv                 39.42          -118.7         
+muncie,in                     40.23          -85.38         
+lovelock,nv                   40.1           -118.92        
+alpena,mi                     45.07          -83.57         
+mather afb,ca                 38.57          -121.3         
+yellowstone,wy                44.55          -110.42        
+dyess afb,tx                  32.43          -99.85         
+joplin,mo                     37.17          -94.5          
+greenville,me                 45.78          -69.63         
+newark intl,nj                40.7           -74.17         
+concord,nh                    43.2           -71.5          
+drummond,mt                   46.67          -113.15        
+rice lake,wi                  45.48          -91.72         
+london,ky                     37.08          -84.07         
+tucumcari,nm                  35.18          -103.6         
+plattsburgh,ny                44.65          -73.47         
+charlottesvi,va               38.13          -78.45         
+saint paul,mn                 44.93          -93.05         281253         
+allentown,pa                  40.65          -75.43         107815         
+beale afb,ca                  39.13          -121.45        
+atlanta,ga                    33.65          -84.42         540922         
+monteagle,tn                  35.15          -85.51         
+pasco,wa                      46.27          -119.12        
+wichita,ks                    37.65          -97.43         372186         
+sanderson,tx                  30.17          -102.42        
+white plains,ny               41.07          -73.72         
+la verne,ca                   34.1           -117.78        
+fort sill,ok                  34.65          -98.4          
+modesto,ca                    37.63          -120.95        202743         
+tustin mcas,ca                33.7           -117.83        
+greenville,sc                 34.9           -82.22         
+traverse cty,mi               44.73          -85.58         
+sacramento,ca                 38.7           -121.6         466676         
+col. j jabar,ks               37.75          -97.22         
+hoquiam,wa                    46.97          -123.97        
+decatur,il                    39.83          -88.87         
+deming,nm                     32.25          -107.7         
+santa rosa,ca                 38.52          -122.82        157468         
+sun valley,id                 43.5           -114.3         
+benton harbor,mi              42.13          -86.43         
+casper,wy                     42.92          -106.47        
+scottsbluff,ne                41.87          -103.6         
+eau claire,wi                 44.87          -91.48         
+portland,or                   45.6           -122.6         566143         
+rocky mt,nc                   35.85          -77.88         
+key west,fl                   24.55          -81.75         
+oak harbor,wa                 48.25          -122.68        
+cannon,nm                     34.38          -103.32        
+memphis nas,tn                35.35          -89.87         
+mobile,al                     30.68          -88.25         193205         
+pillaro pt,ca                 37.83          -122.83        
+winston-salem,nc              36.13          -80.23         229828         
+bergstrom af,tx               30.2           -97.68         
+fort worth,tx                 32.82          -97.35         727577         
+slidel,la                     30.35          -89.82         
+alexandria,mn                 45.87          -95.38         
+milwaukee,wi                  43.12          -88.05         605013         
+springfield,mo                37.23          -93.38         157630         
+big piney,wy                  42.57          -110.1         
+coopersville,mi               43.07          -85.95         
+manchester,nh                 42.93          -71.43         109279         
+walla walla,wa                46.1           -118.28        
+brainerd-crw,mn               46.4           -94.13         
+wilmington,vt                 42.88          -72.88         
+greenville,tx                 33.07          -96.07         
+providence,ri                 41.73          -71.43         171909         
+miami/opa,fl                  25.92          -80.28         
+houghton lake,mi              44.37          -84.68         
+livingston,mt                 45.7           -110.43        
+mineral wlls,tx               32.78          -98.07         
+la grande,or                  45.28          -118.0         
+winnemucca,nv                 40.9           -117.8         
+athens/albany,oh              39.21          -82.23         
+middletown,pa                 40.2           -76.77         
+hartford,ct                   41.73          -72.65         124060         
+burlington,vt                 44.47          -73.15         
+taylorville,il                39.53          -89.33         
+manteo arpt,nc                35.92          -75.68         
+diamond sho,nc                35.25          -75.5          
+blanding,ut                   38.03          -109.78        
+jamestown,nd                  46.92          -98.68         
+cape hattera,nc               35.27          -75.55         
+nth myrtle b,sc               33.82          -78.72         
+gary,in                       41.62          -87.42         
+palo alto,ca                  37.47          -122.12        
+palmdale,ca                   35.05          -118.13        143985         
+danbury,ct                    41.37          -73.48         
+anderson,sc                   34.5           -82.72         
+park rapids,mn                46.9           -95.07         
+durango,co                    37.15          -107.75        
+westfield,ma                  42.17          -72.72         
+show low,az                   34.27          -110.0         
+louisville,ky                 38.18          -85.73         566503         
+hyannis,ma                    41.67          -70.28         
+richmond,va                   37.5           -77.33         204451         
+w yellowston,mt               44.68          -111.12        
+red bluff,ca                  40.15          -122.25        
+waco-madison,tx               31.62          -97.22         
+syracuse,ny                   43.12          -76.12         138560         
+cape canaveral,fl             28.47          -80.55         
+fort myers,fl                 26.58          -81.87         
+needles,ca                    34.77          -114.62        
+gila bend,az                  33.55          -113.17        
+raleigh-durh,nc               35.87          -78.78         
+block island,ri               41.17          -71.58         
+apalachicola,fl               29.73          -85.03         
+riverside,ca                  33.95          -117.45        297841         
+wilkes-barre,pa               41.33          -75.73         
+concord,ca                    37.98          -122.05        126752         
+el toro,ca                    33.67          -117.73        
+alton,il                      38.88          -90.05         
+new york/lga,ny               40.77          -73.9          
+tulsa,ok                      36.2           -95.9          389625         
+homestead,fl                  25.48          -80.38         
+willoughby,oh                 41.63          -81.4          
+rockport,tx                   28.08          -97.03         
+alice,tx                      27.73          -98.03         
+barksdale,la                  32.5           -93.67         
+falcon fld,az                 33.47          -111.73        
+yakima,wa                     46.57          -120.53        
+coeur d'alene,id              47.77          -116.82        
+pensacola,fl                  30.47          -87.2          
+manitowac,wi                  44.13          -87.67         
+peoria,il                     40.67          -89.68         115520         
+baton rouge,la                30.53          -91.15         225388         
+tuscaloosa,al                 33.23          -87.62         
+vandenberg,ca                 35.2           -120.95        
+monida,mt                     44.57          -112.32        
+quillayute,wa                 47.95          -124.55        
+roosevelt,ut                  40.5           -110.63        
+hillsboro,or                  45.53          -122.95        
+hibbing,mn                    47.38          -92.85         
+valdosta,ga                   30.78          -83.28         
+green river,ut                39.0           -110.15        
+vernal,ut                     40.45          -109.52        
+norman,ok                     35.23          -97.47         109062         
+dubuque,ia                    42.4           -90.7          
+cincinnati,oh                 39.1           -84.43         333012         
+big sky,tx                    32.39          -101.48        
+williamsport,pa               41.25          -76.92         
+beaumont,ca                   33.93          -116.95        
+buffalo,ny                    42.93          -78.73         270240         
+laredo intl,tx                27.53          -99.47         
+mattoon,il                    39.48          -88.28         
+lubbock,tx                    33.65          -101.82        225859         
+goodyear,az                   33.42          -112.38        
+jamestown,ny                  42.15          -79.25         
+eagle range,ut                41.05          -113.07        
+pullman,wa                    46.75          -117.12        
+ukiah,ca                      39.13          -123.2         
+mammoth lks,ca                37.63          -118.92        
+astor nas,fl                  29.12          -81.57         
+morristown,nj                 40.8           -74.42         
+jaffrey,nh                    42.8           -72.0          
+camp pendlet,ca               33.3           -117.35        
+grissom afb,in                40.65          -86.15         
+kinston,nc                    35.32          -77.63         
+pendleton,or                  45.68          -118.85        
+litchfield,mn                 45.13          -94.52         
+denver,co                     39.75          -104.87        610345         
+lamoni,ia                     40.62          -93.93         
+mccook,ne                     40.22          -100.58        
+nashua,nh                     42.78          -71.52         
+marseilles,il                 41.37          -88.68         
+rawlins,wy                    41.8           -107.2         
+wolf point,mt                 48.1           -105.58        
+santa maria,ca                34.9           -120.45        
+savannah mun,ga               32.13          -81.2          
+morgan city,la                29.7           -91.2          
+payson,az                     34.23          -111.33        
+salida,co                     38.53          -106.05        
+white sands,nm                32.63          -106.4         
+moses lake,wa                 47.2           -119.32        
+chesapeake,va                 37.5           -76.2          222455         
+seul choix,mi                 45.92          -85.92         
+duke fld,fl                   30.65          -86.52         
+stillwater,ok                 36.16          -97.09         
+brmfield/jef,co               39.9           -105.12        
+pierre,sd                     44.38          -100.28        
+stephenville,tx               32.22          -98.18         
+roseglen,nd                   47.75          -101.83        
+nantucket,ma                  41.25          -70.07         
+sherman-deni,tx               33.72          -96.67         
+sidney,mt                     47.72          -104.18        
+miles city,mt                 46.43          -105.87        
+bartlesville,ok               36.75          -96.0          
+centralia,il                  38.51          -89.09         
+montpelier,vt                 44.2           -72.57         
+whiteman afb,mo               38.73          -93.55         
+meridian/key,ms               32.33          -88.75         
+o'neill,ne                    42.47          -98.68         
+beckley,wv                    37.78          -81.12         
+santa fe,nm                   35.62          -106.08        
+la junta,co                   38.05          -103.52        
+selma,al                      32.34          -86.99         
+twenty9 palm,ca               34.28          -116.15        
+macomb,il                     40.52          -90.66         
+cape cod can,ma               41.78          -70.5          
+orlando,fl                    28.55          -81.33         235860         
+clinton,ok                    35.35          -99.2          
+houlton,me                    46.13          -67.78         
+omaha/eppley,ne               41.3           -95.9          
+austin,tx                     30.3           -97.7          786386         
+ft smith,ar                   35.33          -94.37         
+santa ana,ca                  33.67          -117.88        340338         
+philipsburg,pa                41.47          -78.13         
+merced,ca                     37.28          -120.52        
+lakeland,fl                   28.03          -81.95         
+englewood,co                  39.57          -104.83        
+cut bank,mt                   48.6           -112.37        
+ft leonard,mo                 37.75          -92.13         
+charleston,wv                 38.37          -81.6          
+burley,id                     42.53          -113.77        
+chippewa,mi                   46.25          -84.47         
+elkhart,ks                    37.0           -101.88        
+grand rapids,mi               42.88          -85.52         193710         
+dugway prvgr,ut               40.2           -112.93        
+sexton,or                     42.62          -123.37        
+havre,mt                      48.55          -109.77        
+newport news,va               37.13          -76.5          193172         
+colville,wa                   48.88          -118.47        
+rhinelander,wi                45.63          -89.45         
+mercury,nv                    36.62          -116.02        
+phoenix,az                    33.43          -112.02        1593659        
+jacksonville,nc               34.82          -77.62         
+soda springs,id               42.65          -111.58        
+austin,nv                     39.5           -117.08        
+evanston,wy                   41.33          -111.0         
+owyhee,nv                     42.58          -116.17        
+hanksville,ut                 38.37          -110.72        
+utica,ny                      43.15          -75.38         
+oklahoma cty,ok               35.53          -97.65         
+grand island,ne               40.97          -98.32         
+paso robles,ca                35.67          -120.63        
+carlsbad,nm                   32.33          -104.27        
+fargo,nd                      46.9           -96.8          
+columbus afb,ms               33.65          -88.45         
+logan,ut                      41.78          -111.85        
+burbank,ca                    34.2           -118.37        103121         
+indianapolis,in               39.73          -86.27         807584         
+augusta/bush,ga               33.37          -81.97         
+whiting fld,fl                30.72          -87.02         
+imperial,ne                   40.53          -101.63        
+chico,ca                      39.78          -121.85        
+daggett,ca                    34.87          -116.78        
+birmingham,al                 33.57          -86.75         230131         
+el paso,tx                    31.8           -106.4         620456         
+gooding,id                    43.0           -115.17        
+omak,wa                       48.42          -119.53        
+lemoore nas,ca                36.33          -119.95        
+harrison,ar                   36.27          -93.15         
+north platte,ne               41.13          -100.68        
+st cloud,mn                   45.55          -94.07         
+cotulla,tx                    28.45          -99.22         
+williams afb,az               33.3           -111.67        
+new york/jfk,ny               40.65          -73.78         
+hobart,ok                     35.0           -99.05         
+groton,ct                     41.33          -72.05         
+cortez,co                     37.3           -108.63        
+bozeman,mt                    45.78          -111.15        
+terre haute,in                39.45          -87.3          
+hunter aaf,ga                 32.02          -81.15         
+jefferson city,mo             38.6           -92.17         
+pt arguello,ca                34.95          -121.12        
+san francisco,ca              37.62          -122.38        815358         
+bridgeport,ct                 41.17          -73.13         137298         
+broken bow,ne                 41.43          -99.65         
+gage,ok                       36.3           -99.77         
+green bay,wi                  44.48          -88.13         101412         
+kankakee,il                   41.07          -87.85         
+harlingen,tx                  26.23          -97.67         
+miami/tamiami,fl              25.65          -80.43         
+pequot lake,mn                46.6           -94.32         
+dubois,pa                     41.18          -78.9          
+ft hood aaf,tx                31.15          -97.72         
+st johnsbury,vt               44.42          -72.02         
+danville,il                   40.2           -87.6          
+san antonio,tx                29.33          -98.47         1373668        
+aspen,co                      39.22          -106.87        
+torrance,ca                   33.8           -118.33        140317         
+albert lea,mn                 43.68          -93.37         
+bloomington,in                39.13          -86.62         
+bloomington,il                40.48          -88.93         
+kalispell,mt                  48.3           -114.27        
+harrisburg,pa                 40.37          -77.42         
+ft col/lovel,co               40.45          -105.02        
+rome/russell,ga               34.35          -85.17         
+paris/cox,tx                  33.63          -95.45         
+ogden,ut                      41.18          -112.02        
+bullfrog mar,ut               37.5           -110.7         
